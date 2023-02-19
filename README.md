@@ -1,2 +1,0 @@
-# Sampling-Assignment
-Sampling Assignment
