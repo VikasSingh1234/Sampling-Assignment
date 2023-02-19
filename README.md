@@ -31,7 +31,7 @@ Extra Tree Classifier (M5)
 On execution of the code, following results were obtained: The cells of the table represent accuracy of the applied model using the respective sampling technique.
 
 
-As we can see from the table the Maximum Accuracy obtained is of 99.35% on the following combinations:
+As we can see from the table the Maximum Accuracy obtained is of 99.57% on the following combinations:
 
 ## Output Table 
 
@@ -55,3 +55,5 @@ KMeans Classifier with Random Over Sampler, Smote and Tomek
 Support Vector Classifier with Random Over Sampler, Smote and Tomek
 
 Extra Tree Classifier with Random Over Sampler, Smote and Tomek
+
+Sampling models Random Over Sampler, Smote and Tomek are better
